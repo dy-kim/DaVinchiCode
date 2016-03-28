@@ -1,0 +1,5 @@
+UNOWNED <- -1L
+NUM_JOCKER <- -1L
+COLOR_SET <- c('black', 'white')
+EVEN_COLOR <- rep(COLOR_SET, 2)
+INITIAL_BLOCKS <- 4L

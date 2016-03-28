@@ -1,0 +1,9 @@
+Package: coda
+Type: Package
+Title: Da Vinchi Code
+Version: 0.1.0
+Author: Dae Young Kim
+Maintainer: Dae Young Kim <daykim22@gmail.com>
+Description: A game for research a human-machine symbiosis
+License: LGPL
+LazyData: TRUE
